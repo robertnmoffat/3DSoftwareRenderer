@@ -1,0 +1,9 @@
+#Do not track following folders
+tinyrenderer/Debug/tinyrenderer.tlog/
+
+#Do not track compiled stuff
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.log
