@@ -7,3 +7,6 @@ tinyrenderer/Debug/tinyrenderer.tlog/
 *.pdb
 *.obj
 *.log
+
+tinyrenderer.VC.db
+tinyrenderer.VC.VC.opendb
