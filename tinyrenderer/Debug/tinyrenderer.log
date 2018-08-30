@@ -1,7 +1,0 @@
-﻿  main.cpp
-g:\programming\c++\tinyrenderer\tinyrenderer\main.cpp(9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-g:\programming\c++\tinyrenderer\tinyrenderer\main.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-g:\programming\c++\tinyrenderer\tinyrenderer\main.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-g:\programming\c++\tinyrenderer\tinyrenderer\main.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  tinyrenderer.vcxproj -> G:\Programming\C++\tinyrenderer\Debug\tinyrenderer.exe
-  tinyrenderer.vcxproj -> G:\Programming\C++\tinyrenderer\Debug\tinyrenderer.pdb (Partial PDB)
